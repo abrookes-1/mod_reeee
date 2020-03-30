@@ -1,6 +1,7 @@
 package com.ETFONEHOME.modtest.init;
 
 import java.util.ArrayList;
+
 import java.util.List;
 
 import com.ETFONEHOME.modtest.items.ItemBase;
@@ -12,11 +13,16 @@ import com.ETFONEHOME.modtest.items.tools.ToolSword;
 import net.minecraft.item.Item;
 import net.minecraft.item.Item.ToolMaterial;
 import net.minecraft.item.ItemAxe;
+import net.minecraft.item.ItemBed;
 import net.minecraft.item.ItemHoe;
 import net.minecraft.item.ItemPickaxe;
 import net.minecraft.item.ItemSpade;
 import net.minecraft.item.ItemSword;
 import net.minecraftforge.common.util.EnumHelper;
+
+import net.minecraft.block.state.IBlockState;
+import net.minecraftforge.energy.EnergyStorage;
+
 
 public class ModItems 
 {
@@ -34,3 +40,7 @@ public class ModItems
 	public static final ItemPickaxe JEWELED_NETHER_STAR_PICKAXE = new ToolPickaxe ("jeweled_nether_star_pickaxe", MATERIAL_JEWELED_NETHER_STAR);
 	public static final ItemHoe JEWELED_NETHER_STAR_HOE = new ToolHoe ("jeweled_nether_star_hoe", MATERIAL_JEWELED_NETHER_STAR);
 }
+
+
+
+
