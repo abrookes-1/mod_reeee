@@ -1,0 +1,39 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "DDD",
+        "ENE",
+        "DDD"
+    ],
+    
+    
+    "key":
+    {
+        "E":
+        {
+            "item": "minecraft:emerald"
+        },
+
+   
+        "D":
+        {
+            "item": "minecraft:diamond"
+        },
+
+    
+        "N":
+        {
+            "item": "minecraft:nether_star"
+        }
+    },
+    
+    
+    "result":
+    {
+        "item": "mt:jeweled_nether_star",
+        "count": 1
+    }
+}
+

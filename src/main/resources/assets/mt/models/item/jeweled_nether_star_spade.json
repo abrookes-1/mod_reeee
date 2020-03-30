@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "mt:items/jeweled_nether_star_spade"
+   }
+}

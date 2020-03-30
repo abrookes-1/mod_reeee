@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "J",
+        "J",
+        "S"
+    ],
+    
+    
+    "key":
+    {
+        "J":
+        {
+            "item": "mt:jeweled_nether_star"
+        },
+
+   
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    
+    "result":
+    {
+        "item": "mt:jeweled_nether_star_sword",
+        "count": 1
+    }
+}
+
