@@ -22,7 +22,7 @@ public class ToolSpade extends ItemSpade implements IHasModel
 	}
 	
 	@Override
-	public void registerModles() 
+	public void registerModels() 
 	{
 		Main.proxy.registerItemRenderer(this, 0, "inventory");
 	}

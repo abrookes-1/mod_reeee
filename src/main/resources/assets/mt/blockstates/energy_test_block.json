@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "mt:energy_test_block" }
+    }
+}
