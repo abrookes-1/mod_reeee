@@ -1,5 +1,6 @@
 //Blocks
 tile.energy_test_block.name=Energy Cube
+tile.jeweled_nether_star_block.name=Jeweled Nether Star Block
 //Tools
 item.jeweled_nether_star_sword.name=Jeweled Nether Star Sword
 item.jeweled_nether_star_spade.name=Jeweled Nether Star Shovel
