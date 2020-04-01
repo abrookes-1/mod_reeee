@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "mt:blocks/jeweled_nether_star_block"
+    }
+ }
